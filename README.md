@@ -1,6 +1,9 @@
 # hello-world
 sample from github
-Hey, Creating solutions for SMBs, in the run your business from your phone. Actually see your business being run from your phone, because we automate your business decisions using prescriptive analytics. Most of the decisions are made for you and "queued up" for a few minutes, after which they are automatically executed. You can make changes during the few minutes, or you can choose "categories" where manual intervention is required before a change is implemented or an action is taken.
+
+Hey, Creating solutions for SMBs, in the "run your business from your phone". Actually "see" your business being run(you don't actually have to run!) from your phone, because we "automate your business decisions" using prescriptive analytics. Most of the decisions are made for you and "queued up" for a few minutes, after which they are automatically executed. You can make changes during the few minutes, or you can choose "categories" where manual intervention is required before a change is implemented or an action is taken.
+
+Auto discover from existing data and from automatically designed experiments (your experiments and others like yours)
 
 Automatic discovery and implementation of best practices based on automatic experiments using AI is the way of the solution.
 
